@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tulsi-parmar-76a865290/](https://www.linkedin.com/in/tulsi-parmar-76a865290/)
 
-- 💬 Ask me about **React,Redux-Toolkit,Node.js,Express.js,C++,ASP.net,Javascript,MongoDb,SQL,Oracle**
+- 💬 Ask me about **React , Redux-Toolkit , Node.js , Express.js , C++ , ASP.net , Javascript , MongoDb , SQL , Oracle **
 
 - 📫 How to reach me **parmartulsi222@gmail.com**
 
