@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tulsi Parmar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tulsi-parmar1&label=Profile%20views&color=0e75b6&style=flat" alt="tulsi-parmar1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tulsi-parmar1" alt="tulsi-parmar1" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning Next.js
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tulsi-parmar-76a865290/](https://www.linkedin.com/in/tulsi-parmar-76a865290/)
 
-- 💬 Ask me about **React , Redux-Toolkit , Node.js , Express.js , C++ , ASP.net , Javascript , MongoDb , SQL , Oracle **
+- 💬 Ask me about **React , Redux-Toolkit , Node.js , Express.js , C++ , ASP.net ,typescript, Javascript , MongoDb , SQL , Oracle **
 
 - 📫 How to reach me **parmartulsi222@gmail.com**
 
